@@ -1,2 +1,6 @@
 # 1. Introduction
->>TensorFlow projects.
+>>This repository is TensorFlow demoes.
+
+# 2. More Resources
+- [Github Link](https://github.com/lh9171338/Outline)
+
