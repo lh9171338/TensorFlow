@@ -1,9 +1,9 @@
-[<img height="23" src="https://github.com/lh9171338/Outline/blob/master/icon.jpg"/>](https://github.com/lh9171338/Outline) TensorFlow Tutorial
+[<img height="23" src="https://raw.githubusercontent.com/lh9171338/Outline/master/icon.jpg"/>](https://github.com/lh9171338/Outline) TensorFlow Tutorial
 ===
 
-# 1. Introduction
+# 1. Introductiont
 
-This repository is TensorFlow Tutorials.
+This repository is TensorFlow tutorials.
 
 # 2. More Resources
 
